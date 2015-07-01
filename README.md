@@ -1,6 +1,8 @@
 WebViewJavascriptBridge
 =======================
 
+[![Join the chat at https://gitter.im/UMSCloud/WebViewJavascriptBridge](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/UMSCloud/WebViewJavascriptBridge?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews.
 
 If you like WebViewJavascriptBridge you may also want to check out [WebViewProxy](https://github.com/marcuswestin/WebViewProxy).
